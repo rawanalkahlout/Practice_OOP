@@ -1,0 +1,5 @@
+﻿  company.cpp
+C:\Users\devops rawan\source\repos\company\company\company.cpp(48,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\devops rawan\source\repos\company\company\company.cpp(72,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\devops rawan\source\repos\company\company\company.cpp(83,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  company.vcxproj -> C:\Users\devops rawan\source\repos\company\x64\Debug\company.exe
